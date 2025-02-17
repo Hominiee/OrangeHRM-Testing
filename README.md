@@ -1,4 +1,4 @@
-# [Magento_eCommerce_Testing](https://magento.softwaretestingboard.com/)
+# [OrangeHRM-Testing](https://magento.softwaretestingboard.com/)
 
 >_Magento is an open-source eCommerce platform that allows businesses to create and manage online stores. It provides a flexible and customizable environment for developers to build tailored solutions, offering features like product management, customer management, order processing, and integration with various payment gateways. Magento eCommerce testing involves testing the functionalities of an online store built on Magento, ensuring the platform operates smoothly, is free of bugs, and delivers a seamless user experience. The testing covers areas like payment processing, shopping cart functionalities, security, performance, and compatibility across different devices and browsers._
 

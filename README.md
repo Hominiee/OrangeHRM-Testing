@@ -1,13 +1,13 @@
-# [OrangeHRM-Testing](https://magento.softwaretestingboard.com/)
+# [OrangeHRM-Testing](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 
->_Magento is an open-source eCommerce platform that allows businesses to create and manage online stores. It provides a flexible and customizable environment for developers to build tailored solutions, offering features like product management, customer management, order processing, and integration with various payment gateways. Magento eCommerce testing involves testing the functionalities of an online store built on Magento, ensuring the platform operates smoothly, is free of bugs, and delivers a seamless user experience. The testing covers areas like payment processing, shopping cart functionalities, security, performance, and compatibility across different devices and browsers._
+>_The website you provided is a demo version of OrangeHRM, an open-source Human Resource Management (HRM) software. It offers a range of HR functionalities, such as employee management, leave tracking, time and attendance management, and performance evaluation. The demo version allows users to explore the platform's interface and features, offering a glimpse into how the software can be used to streamline HR processes within an organization. It is designed to help HR professionals manage their workflows effectively._
 
-![GitHub language count](https://img.shields.io/github/languages/count/Hominiee/Magento-eCommerce-Testing) ![GitHub top language](https://img.shields.io/github/languages/top/Hominiee/Magento-eCommerce-Testing) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Hominiee/Magento-eCommerce-Testing/main) ![GitHub watchers](https://img.shields.io/github/watchers/Hominiee/Magento-eCommerce-Testing) 
+![GitHub language count](https://img.shields.io/github/languages/count/Hominiee/OrangeHRM-Testing) ![GitHub top language](https://img.shields.io/github/languages/top/Hominiee/OrangeHRM-Testing) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Hominiee/OrangeHRM-Testing/main) ![GitHub watchers](https://img.shields.io/github/watchers/Hominiee/OrangeHRM-Testing) 
 
 
 #### Intro
 
-This project focuses on QA automation testing for a Magento eCommerce platform using Java and Selenium. The goal is to ensure the seamless functionality of the platform by automating tests for critical features such as product management, payment processing, and user interactions. Automated tests help identify issues quickly, ensuring a smooth and error-free experience for end-users.
+This project focuses on QA automation testing for the OrangeHRM platform using Java and Selenium. The goal is to ensure the seamless functionality of key HR features such as employee management, leave tracking, time and attendance management, and performance evaluation. Automated tests help identify issues quickly, ensuring a smooth and efficient experience for HR professionals and users.
 
 ####  Test Scenarios
 ![Test Scenarios](https://github.com/Hominiee/Magento-eCommerce-Testing/blob/main/static_content/LogIn_Test_Cases.png?raw=true)

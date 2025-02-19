@@ -9,9 +9,9 @@
 
 This project focuses on QA automation testing for the OrangeHRM platform using Java and Selenium. The goal is to ensure the seamless functionality of key HR features such as employee management, leave tracking, time and attendance management, and performance evaluation. Automated tests help identify issues quickly, ensuring a smooth and efficient experience for HR professionals and users.
 
-####  Test Scenarios
-![Test Scenarios](https://github.com/Hominiee/Magento-eCommerce-Testing/blob/main/static_content/LogIn_Test_Cases.png?raw=true)
-For the full list of login scenario test cases, check out [this spreadsheet](https://docs.google.com/spreadsheets/d/1xnTce6cDQ7RTR_20r0-dJK2ozWLpm599iEj1UNr57Kg/edit?gid=1896085646#gid=1896085646).
+####  Test Cases
+![Test Scenarios](static_content/Forgot_Password_TestCases.png)
+For the full list of login scenario test cases, check out [this spreadsheet](https://docs.google.com/spreadsheets/d/1T51dV4lZTaBOTyECM2Dw3TMwA1JJbCaFQkZKMfrtNrU/edit?usp=sharing).
 
 #### Technologies Used
 * Java
@@ -21,5 +21,5 @@ For the full list of login scenario test cases, check out [this spreadsheet](htt
 
 #### Key Features
 
-* Automated testing of Magento eCommerce functionalities
-* Tests for product catalog, shopping cart, checkout process, and more
+* Automated testing of OrangeHRM functionalities
+* Tests for employee management, leave tracking, time and attendance management, performance evaluation, and more.
